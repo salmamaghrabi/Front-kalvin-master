@@ -1,0 +1,95 @@
+.home
+{
+    height: 100vh;
+    background-image: url(../images/c1.jpg) ;
+    
+    background-size: cover;
+    
+    
+}
+.layer 
+{
+    background-color:rgba(0,0,0,0.4);
+    height: 100%;
+    position: relative ;
+}
+h1 
+{
+    
+    color: white;
+    font-size: 80px;
+}
+
+.arro
+{
+    position: absolute;
+    bottom: 30px;
+    
+}
+
+
+.con
+{
+padding-top:  305px;
+}
+.HOME P
+{
+    color: white;
+    font-size: 20px;
+}
+.about{
+    width=100px;
+    height: 600px;
+    background-color: dodgerblue;
+}
+.paging
+{
+    background-color: #f5f5f5;
+}
+.row-spec
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+   
+}
+.col_inner
+{
+    background-color: white;
+}
+.row-spec h4
+{
+    padding-top: 10px;
+}
+.row-spec h5
+{
+    color: gray;
+}
+/*salma's css section*/
+.people
+{
+    background-image:url(../images/client-testimonial.jpg);
+    height: 350px;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.people h4 
+{
+    color: #ec3237;
+    font-size: 24px;
+    font-weight:800;
+}
+.people p 
+{
+    color: #fff;
+    margin-top: 15px;
+}
+.phot 
+{
+    border-radius: 50%;
+    border: solid 5px #ec3237;
+    width: 85px;
+    margin-top:60px;
+}
+/* till here */
